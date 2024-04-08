@@ -1,0 +1,132 @@
+.parent1 {
+    width: 92%;
+    display: flex;
+    padding-top: 30px;
+    background-image: url(https://wallpapercave.com/wp/wp7213408.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    z-index: 99;
+    position: fixed;
+
+}
+
+.logo {
+    width: 15%;
+    padding: 10px;
+
+}
+
+.search {
+    width: 40%;
+    padding: 10px;
+    margin-left: 30px;
+
+}
+
+.search input {
+    width: 80%;
+    text-align: left;
+
+
+    color: black;
+    font-weight: bolder;
+}
+
+.login {
+    width: 15%;
+    padding: 10px;
+
+}
+
+
+
+.login a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.cart {
+    width: 15%;
+    padding: 10px;
+}
+
+.cart a:hover {
+    color: chocolate;
+}
+
+.cart a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.seller {
+    width: 15%;
+    padding-top: 10px;
+}
+
+.login a:hover {
+    color: chocolate;
+}
+
+.seller a {
+    text-decoration: none;
+    color: chocolate;
+    font-weight: bolder;
+}
+
+
+.img {
+    width: 100%;
+}
+
+.parent4 {
+    padding-top: 20px;
+    background-image: url(https://images.freecreatives.com/wp-content/uploads/2016/04/Solid-Black-Website-Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.parent5 {
+    display: flex;
+    width: 100%;
+}
+
+.chil1 {
+    width: 15%
+}
+
+.chil2 {
+    width: 15%
+}
+
+.parent2 {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.input {
+    width: 100%;
+    background-color: rgb(122, 183, 223);
+    color: black;
+    font-weight: bold;
+    border: none;
+}
+.parent6{
+    align-items:center;
+}
+.bt{
+    background-color: crimson;
+    color: bisque;
+    border: none;
+}
+.bt:hover{
+    background-color: rgb(48, 14, 14);
+}
+.parent6 a{
+    text-decoration: none;
+}
+

@@ -1,0 +1,122 @@
+
+.parent3{
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.Y09P-66N8Yn13Ra9-xsdVwHaEK&pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.col-md-4{
+    padding-left: 40px;
+}
+.parent2{
+    padding-top: 100px;
+}
+.card{
+    border-style:solid;
+    border-radius: 30px;
+    border-width: 10px;
+    padding: 20px;
+}
+.parent1 {
+    width: 92%;
+    display: flex;
+    padding-top: 30px;
+    background-image: url(https://wallpapercave.com/wp/wp7213408.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    z-index: 99;
+    position: fixed;
+  
+}
+
+.logo {
+    width: 15%;
+    padding: 10px;
+    
+}
+
+.search {
+    width: 40%;
+    padding: 10px;
+    margin-left: 30px;
+    
+}
+.search input{
+    width: 80%;
+    text-align: left;
+    
+
+color: black;
+font-weight: bolder;
+}
+
+.login {
+    width: 15%;
+    padding: 10px;
+   
+}
+.login a:hover{
+   
+    color: chocolate;
+}
+.login a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+.cart {
+    width: 15%;
+    padding: 10px;
+}
+.cart a:hover{
+    color: chocolate;
+}
+.cart a{
+    text-decoration: none;
+    color: black;
+    font-weight:bolder ;
+}
+.seller {
+    width: 15%;
+    padding-top: 10px;
+}
+.seller a:hover{
+    color: chocolate;
+}
+.seller a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+.card-body{
+    text-align: center;
+
+}
+.parent2 h1{
+    text-align: center;
+}
+.parent4 h3{
+    text-align: center;
+}
+.parent6 {
+    padding-top: 20px;
+    background-image: url(https://images.freecreatives.com/wp-content/uploads/2016/04/Solid-Black-Website-Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.parent7 {
+    display: flex;
+    width: 100%;
+}
+
+.chil1 {
+    width: 15%
+}
+
+.chil2 {
+    width: 15%
+}
